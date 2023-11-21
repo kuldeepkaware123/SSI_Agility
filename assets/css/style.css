@@ -5713,13 +5713,13 @@ ol.wp-block-rss {
   position: relative;
 }
 
-.main-menu ul li.menu-item-has-children > a:after {
+/* .main-menu ul li.menu-item-has-children > a:after {
   content: "\f107";
   position: relative;
   font-family: var(--icon-font);
   margin-left: 5px;
   top: 1px;
-}
+} */
 
 .main-menu ul li:last-child {
   margin-right: 0 !important;
